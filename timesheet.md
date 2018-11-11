@@ -10,7 +10,7 @@
                      - Kleuren kaart aanpassen
                      - Adoble Illustrator + Inkscape om gebieden aan te duiden (experimenteren)
 
-### Week Herfstvakantie (29/10/18 - 3/11/18): Info seizoenen & afleveringen met Angular en JSON (20 uur) + lijst van "Great Houses" en familieleden in popup met Angular en Bootstrap (20 uur) 
+### Week Herfstvakantie (29/10/18 - 3/11/18): Info seizoenen & afleveringen met Angular en JSON (20 uur) + lijst van "Great Houses" en familieleden in popup met Angular en Bootstrap (20 uur)  = (40 uur) 
                      - Eerst met Vue JS en React geëxperimenteerd
                      - Uiteindelijk gewerkt met Angular
                      - Radio buttons om een seizoen te kunnen kiezen
@@ -22,7 +22,11 @@
                      - Popup om meer details te geven over "Great Houses" (familieleden daarvan)
                      - Popup met Bootstrap + jQuery
                      - Infofiches in verband met familieleden
-                    
+### Week 4 (8/11/18): Weglaten van Framework7 (op zoek naar een UI Angular + Bootstrap) + Carrousel over de verschillende locaties (10 uur)
+                     - Weglaten van Framework7 omdat het Angular niet ondersteunt
+                     - Op zoek naar een UI Angular en Bootstrap, verschillende voorbeelden gekeken en vergeleken
+                     - Overgeschakeld van Brackets naar Visual Studio Code (efficiënter)
+                     - Carrousel over de verschillende locaties waar de belangrijkste scènes werden afgespeeld met bijhorende info (nog niet af)
                      
                    
                     
