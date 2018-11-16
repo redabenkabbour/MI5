@@ -26,7 +26,11 @@
                      - Weglaten van Framework7 omdat het Angular niet ondersteunt
                      - Op zoek naar een UI Angular en Bootstrap, verschillende voorbeelden gekeken en vergeleken
                      - Overgeschakeld van Brackets naar Visual Studio Code (efficiënter)
-                     - Carrousel over de verschillende locaties waar de belangrijkste scènes werden afgespeeld met bijhorende info (nog niet af)
+                     - Carrousel over de verschillende locaties waar de belangrijkste scènes werden afgespeeld met bijhorende                        info (nog niet af)
                      
+### Week 5 (15/11/18): Uitbreiding Characters pagina, aanmaak van locaties.html en about.html (10 uur)
+                     - Meer personages toegevoegd: bondgenoten en vijanden
+                     - Aanmaak van locaties.html met daarin de belangrijkste en mooiste plekken die in de TV-show zijn aan de                        hand van een carousel met achtergrondinformatie over de steden waar het gefilmd werd + in welke                                seizoenen werd het gefilmd
+                     - Aanmaak van about.html, een pagina waar men (technische) informatie vindt over de TV-show zelf zoals                          writing, production, authors...
                    
                     
