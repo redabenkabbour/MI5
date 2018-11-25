@@ -33,4 +33,7 @@
                      - Aanmaak van locaties.html met daarin de belangrijkste en mooiste plekken die in de TV-show zijn aan de                        hand van een carousel met achtergrondinformatie over de steden waar het gefilmd werd + in welke                                seizoenen werd het gefilmd
                      - Aanmaak van about.html, een pagina waar men (technische) informatie vindt over de TV-show zelf zoals                          writing, production, authors...
                    
+### Week 6 (22/11/18): Proberen app offline te laten werken met serice workers (10 uur)
+                     - Alle stappen gedaan om app offline te laten werken met service workers, maar lukt niet.. Op zoek                              momenteel naar een oplossing.
+                     
                     
