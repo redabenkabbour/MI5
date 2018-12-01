@@ -36,4 +36,5 @@
 ### Week 6 (22/11/18): Proberen app offline te laten werken met serice workers (10 uur)
                      - Alle stappen gedaan om app offline te laten werken met service workers, maar lukt niet.. Op zoek                              momenteel naar een oplossing.
                      
-                    
+### Week 7 (29/11/18): Firebase gelinkt met toepassing voor hosting, service workers geregistreerd (10 uur)
+                     - Service workers is geregistreerd en is active, toepassing omzetten in PWA maar nog enkele problemen.
