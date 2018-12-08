@@ -37,4 +37,11 @@
                      - Alle stappen gedaan om app offline te laten werken met service workers, maar lukt niet.. Op zoek                              momenteel naar een oplossing.
                      
 ### Week 7 (29/11/18): Firebase gelinkt met toepassing voor hosting, service workers geregistreerd (10 uur)
-                     - Service workers is geregistreerd en is active, toepassing omzetten in PWA maar nog enkele problemen.
+                     - Service workers is geregistreerd en is active maar werkt nog niet, toepassing omzetten in PWA.
+                     - Toepassing met Firebase gelinkt
+                     
+### Week 8 (6/12/18): Service workers werkt nu, "News.html" pagina toegevoegd, Add to homescreen (10 uur)
+
+                     - Service workers werkt nu m.b.v. Jacques (problemen opgelost)
+                     - News.html gemaakt waarin er nieuws over Game of Thrones verschijnen in de vorm van cards
+                     - Add to homescreen werkt dankzij manifest
