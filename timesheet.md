@@ -45,3 +45,8 @@
                      - Service workers werkt nu m.b.v. Jacques (problemen opgelost)
                      - News.html gemaakt waarin er nieuws over Game of Thrones verschijnen in de vorm van cards
                      - Add to homescreen werkt dankzij manifest
+
+### Week 9 (13/12/18): Errors opgelost, score audit verbeterd, kaart in about.html (10 uur)
+                     - Alle errors opgelost die in de console van Chrome verschenen.
+                     - Score van alle onderdelen van de audit verbeterd, die zijn dus allemaal gestegen. 
+                     - Kaart in about.htmpl verplaatst ipv index
