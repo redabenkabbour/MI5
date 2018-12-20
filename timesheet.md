@@ -50,3 +50,13 @@
                      - Alle errors opgelost die in de console van Chrome verschenen.
                      - Score van alle onderdelen van de audit verbeterd, die zijn dus allemaal gestegen. 
                      - Kaart in about.htmpl verplaatst ipv index
+                     
+### Week 10 (20/12/18): Documentatie + presentatie (7 uur)
+          
+                     - Documentatie project schrijven
+                     - Powerpointpresentatie project maken 
+                     - Presentatie finale versie project
+                    
+________________________________             
+### TOTAAL: 120 uren gepresteerd 
+              
